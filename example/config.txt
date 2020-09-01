@@ -1,0 +1,2 @@
+Prefix plugins/CSVMult/example
+Plugin CSVMult inputfile parameters.txt outputfile output.csv
